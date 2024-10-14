@@ -1,5 +1,4 @@
 import React from "react";
-import bootstrap from "bootstrap";
 import axios from "axios";
 
 export default function WeatherApp() {
