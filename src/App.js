@@ -8,7 +8,14 @@ function App() {
       <WeatherApp />
       <footer>
         code hosted on{" "}
-        <a href="https://github.com/yullittah/weather-app-react"> Github</a>
+        <a
+          href="https://github.com/yullittah/weather-app-react"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {" "}
+          Github
+        </a>
       </footer>
     </div>
   );
