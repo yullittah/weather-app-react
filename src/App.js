@@ -4,7 +4,7 @@ import WeatherApp from "./application";
 function App() {
   return (
     <div className="App">
-      <h1>hello world</h1>
+      <h1>WEATHER APP</h1>
       <WeatherApp />
       <footer>
         code hosted on{" "}
